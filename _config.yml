@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4258015
+color:
+  saturation: 0.9980278
+  brandStrength: 0.5688683
+  lightness: 0.5860215
+  rhythmicContrast: 0.4076081
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: 'Tolstoii '
