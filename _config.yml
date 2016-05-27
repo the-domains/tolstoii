@@ -1,8 +1,23 @@
-layout_spectrum: 1
-color:
-  saturation: 0.9980278
-  lightness: 0.7311828
-  brandStrength: 0.5688683
-  rhythmicContrast: 0.4076081
-typography_spectrum: 0.4258015
 name: 'Tolstoii '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4258015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5688683
+  lightness: 0.7311828
+  saturation: 0.9980278
+  rhythmicContrast: 0.4076081
+purpose: []
